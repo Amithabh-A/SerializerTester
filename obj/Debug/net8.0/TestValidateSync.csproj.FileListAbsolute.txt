@@ -1,0 +1,14 @@
+/Users/amithabh_a/Projects/TestValidateSync/bin/Debug/net8.0/TestValidateSync
+/Users/amithabh_a/Projects/TestValidateSync/bin/Debug/net8.0/TestValidateSync.deps.json
+/Users/amithabh_a/Projects/TestValidateSync/bin/Debug/net8.0/TestValidateSync.runtimeconfig.json
+/Users/amithabh_a/Projects/TestValidateSync/bin/Debug/net8.0/TestValidateSync.dll
+/Users/amithabh_a/Projects/TestValidateSync/bin/Debug/net8.0/TestValidateSync.pdb
+/Users/amithabh_a/Projects/TestValidateSync/obj/Debug/net8.0/TestValidateSync.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amithabh_a/Projects/TestValidateSync/obj/Debug/net8.0/TestValidateSync.AssemblyInfoInputs.cache
+/Users/amithabh_a/Projects/TestValidateSync/obj/Debug/net8.0/TestValidateSync.AssemblyInfo.cs
+/Users/amithabh_a/Projects/TestValidateSync/obj/Debug/net8.0/TestValidateSync.csproj.CoreCompileInputs.cache
+/Users/amithabh_a/Projects/TestValidateSync/obj/Debug/net8.0/TestValidateSync.dll
+/Users/amithabh_a/Projects/TestValidateSync/obj/Debug/net8.0/refint/TestValidateSync.dll
+/Users/amithabh_a/Projects/TestValidateSync/obj/Debug/net8.0/TestValidateSync.pdb
+/Users/amithabh_a/Projects/TestValidateSync/obj/Debug/net8.0/TestValidateSync.genruntimeconfig.cache
+/Users/amithabh_a/Projects/TestValidateSync/obj/Debug/net8.0/ref/TestValidateSync.dll
